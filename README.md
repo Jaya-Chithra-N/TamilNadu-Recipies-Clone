@@ -18,8 +18,14 @@ This project is a frontend clone of a Tamil Nadu Recipes website, showcasing tra
 ## 🎯 Live Demo  
 
 🚀 Want to see it in action? **[Click here](https://jaya-chithra-n.github.io/TamilNadu-Recipies-Clone/)** 
+
 ## 📂 Folder Structure  
-/tamilnadu-recipes-clone │── index.html │── styles.css │── README.md 
+```plaintext
+📂 tamilnadu-recipes-clone
+│── 📜 index.html   # Main HTML file
+│── 📜 styles.css   # Style Sheet
+│── 📜 README.md    # This awesome README 😎
+```
 
 ## 🚀 How to Run the Project  
 1. Clone the repository:
